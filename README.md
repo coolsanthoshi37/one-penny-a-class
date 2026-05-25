@@ -3,7 +3,9 @@
 A full-stack education platform that simulates a real-world SaaS learning system with enrollment, financial aid, payments, and role-based dashboards.
 
 ---
+## Live Demo
 
+https://github.com/coolsanthoshi37/one-penny-a-class/raw/main/screenshots/one-penny.mp4
 # System Overview
 
 This application allows:
@@ -211,7 +213,3 @@ Multi-course bundles + coupons
 
 ### Payment Page
 ![Payments](screenshots/payments.png)
-
-## Live Demo
-
-https://github.com/coolsanthoshi37/one-penny-a-class/raw/main/screenshots/one-penny.mp4
