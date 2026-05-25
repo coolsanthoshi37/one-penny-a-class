@@ -1,0 +1,6 @@
+@OnePenny.API_HostAddress = http://localhost:5094
+
+GET {{OnePenny.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

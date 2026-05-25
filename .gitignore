@@ -1,0 +1,25 @@
+# Node
+node_modules/
+dist/
+
+# React
+.vite/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
